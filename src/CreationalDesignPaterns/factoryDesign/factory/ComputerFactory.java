@@ -1,8 +1,8 @@
-package factoryDesign.factory;
+package CreationalDesignPaterns.factoryDesign.factory;
 
-import factoryDesign.beans.Computer;
-import factoryDesign.beans.PC;
-import factoryDesign.beans.Server;
+import CreationalDesignPaterns.factoryDesign.beans.Computer;
+import CreationalDesignPaterns.factoryDesign.beans.PC;
+import CreationalDesignPaterns.factoryDesign.beans.Server;
 
 
 public class ComputerFactory {

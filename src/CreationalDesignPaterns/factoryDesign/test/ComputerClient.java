@@ -1,8 +1,8 @@
-package factoryDesign.test;
+package CreationalDesignPaterns.factoryDesign.test;
 
-import factoryDesign.beans.Computer;
-import factoryDesign.factory.ComputerFactory;
-import factoryDesign.factory.ComputerType;
+import CreationalDesignPaterns.factoryDesign.beans.Computer;
+import CreationalDesignPaterns.factoryDesign.factory.ComputerFactory;
+import CreationalDesignPaterns.factoryDesign.factory.ComputerType;
 
 public class ComputerClient {
     public static void main(String[] args) {

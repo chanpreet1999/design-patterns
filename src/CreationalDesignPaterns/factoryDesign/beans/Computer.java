@@ -1,4 +1,4 @@
-package factoryDesign.beans;
+package CreationalDesignPaterns.factoryDesign.beans;
 
 public abstract class Computer{
     public abstract String getRam();

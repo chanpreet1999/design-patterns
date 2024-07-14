@@ -1,4 +1,4 @@
-package abstractFactoryDesign.beans;
+package CreationalDesignPaterns.abstractFactoryDesign.beans;
 
 
 public class PC extends Computer  {

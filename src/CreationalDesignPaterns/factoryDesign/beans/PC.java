@@ -1,4 +1,4 @@
-package factoryDesign.beans;
+package CreationalDesignPaterns.factoryDesign.beans;
 
 public class PC extends Computer{
     private String ram;

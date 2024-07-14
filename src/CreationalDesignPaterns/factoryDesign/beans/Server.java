@@ -1,4 +1,4 @@
-package factoryDesign.beans;
+package CreationalDesignPaterns.factoryDesign.beans;
 
 public class Server extends Computer{
 

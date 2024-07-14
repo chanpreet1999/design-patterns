@@ -1,7 +1,7 @@
-package abstractFactoryDesign.factory;
+package CreationalDesignPaterns.abstractFactoryDesign.factory;
 
-import abstractFactoryDesign.beans.Computer;
-import abstractFactoryDesign.beans.Server;
+import CreationalDesignPaterns.abstractFactoryDesign.beans.Computer;
+import CreationalDesignPaterns.abstractFactoryDesign.beans.Server;
 
 public class ServerFactory implements ComputerAbstractFactory {
     private String ram;
